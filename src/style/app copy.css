@@ -1,0 +1,18 @@
+body {
+    overflow-x: hidden;
+}
+
+ul {
+    padding-left: 0px;
+    margin: 0;
+    list-style: none;
+}
+
+ul li {
+    margin: 5px;
+    margin-left: 0;
+}
+
+ul li li {
+    padding-left: 20px;
+}

@@ -3,10 +3,11 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import { NativeBaseProvider, extendTheme } from "native-base";
 import reportWebVitals from "./reportWebVitals";
+import './style/app.css';
 
 const theme = extendTheme({
   config: {
-    initialColorMode: "dark",
+    initialColorMode: "light",
   },
 });
 
