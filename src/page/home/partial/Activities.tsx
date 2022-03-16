@@ -50,6 +50,12 @@ const Activities = () => {
                     </ul>
                 </li>
                 <li>
+                    <Text fontWeight="bold">Metodologia</Text>
+                    <ul>
+                        <li><Text>Agile: Scrum, Kanban e Lean</Text></li>
+                    </ul>
+                </li>
+                <li>
                     <Text fontWeight="bold">Banco de dados</Text>
                     <ul>
                         <li><Text>Oracle, Postgres, MySql, SQL Server, Tibero, Mongo e Redis</Text></li>

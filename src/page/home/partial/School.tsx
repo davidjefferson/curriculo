@@ -10,6 +10,9 @@ const School = () => {
             <Title label="CURSOS" />
             <ul>
                 <li>
+                    <Text>Metodologia Agile (16 horas)</Text>
+                </li>
+                <li>
                     <Text>Desenvolvimento Mobile e Web com React + Redux (54 horas)</Text>
                 </li>
                 <li>

@@ -10,6 +10,7 @@ import {
 import Activities from "./partial/Activities";
 import Cms from "./partial/Cms";
 import Experiences from "./partial/Experiences";
+import Footer from "./partial/Footer";
 import Graduation from "./partial/Graduation";
 import Header from './partial/Header';
 import Icons from "./partial/Icons";
@@ -27,7 +28,7 @@ const Home = () => {
             <Container bg={colorMode === "light" ? "coolGray.200" : "darkBlue.900"}
                 minHeight="100vh" alignItems="center" p={4} minWidth="100%">
 
-                <View p={5} alignItems="end">
+                <View p={5}>
                     <ToggleDarkMode />
                 </View>
 
@@ -64,6 +65,10 @@ const Home = () => {
 
                         <School />
                     </View>
+                </View>
+
+                <View p={5}>
+                    <Footer />
                 </View>
             </Container>
         </div>
