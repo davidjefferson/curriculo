@@ -11,6 +11,21 @@ const Activities = () => {
             <Title label="QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS" />
             <ul>
                 <li>
+                    <Text fontWeight="bold">Princípios POO</Text>
+                    <ul>
+                        <li>
+                            <Text>
+                                Classes, Herança, Objetos, Encapsulamento, Polimorfismo, Abstratas, Interfaces e Injeção de dependência.
+                            </Text>
+                        </li>
+                        <li>
+                            <Text>
+                                S.O.L.I.D e D.D.D
+                            </Text>
+                        </li>
+                    </ul>
+                </li>
+                <li>
                     <Text fontWeight="bold">Front-End</Text>
                     <ul>
                         <li><Text>HTML5, CSS3, Display Flex, Sass, Bootstrap, jQuery, NodeJS, JSON</Text></li>

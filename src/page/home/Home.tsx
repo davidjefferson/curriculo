@@ -39,7 +39,7 @@ const Home = () => {
                     <HStack flex={1} justifyContent="space-between" p={5}>
                         <ToggleDarkMode />
 
-                        <Link href="https://drive.google.com/file/d/1eh8BTdhKPn8ls2W3az9d6w_fqkXjQEgv/view?usp=sharing" isExternal>
+                        <Link href="https://drive.google.com/file/d/1o7cbW0Q12Elg3Y0DXlP3QTNou7i_irYk/view?usp=sharing" isExternal>
                             <Button colorScheme="trueGray" leftIcon={<BsDownload color={colorMode === "light" ? "black" : "white"} />} variant="outline">
                                 <Text>Baixar Currículo</Text>
                             </Button>
