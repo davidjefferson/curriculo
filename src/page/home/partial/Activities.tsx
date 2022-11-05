@@ -28,11 +28,11 @@ const Activities = () => {
                 <li>
                     <Text fontWeight="bold">Front-End</Text>
                     <ul>
-                        <li><Text>HTML5, CSS3, Display Flex, Sass, Bootstrap, jQuery, NodeJS, JSON</Text></li>
+                        <li><Text>HTML5, CSS3, SCSS, Display Flex, Sass, Bootstrap, jQuery, NodeJS, JSON</Text></li>
                         <li>
                             <Flex>
                                 <Text>Linguagem de programação JavaScript/TypeScript</Text>
-                                <Text>- Angular, AngularJs, React Js, React Native, Redux</Text>
+                                <Text>- Angular 2+, AngularJs, React Js, React Native, Redux</Text>
                             </Flex>
                         </li>
                         <li><Text>Npm, Bower, Yarn, Grunt, Gulp, BDD (Cucumber, Protractor)</Text></li>
