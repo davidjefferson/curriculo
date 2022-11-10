@@ -1,4 +1,4 @@
-import photo from './../../../assets/photo-profile.jpeg';
+import photo from './../../../assets/photo-profile.png';
 import {
     Box,
     Image,
@@ -23,7 +23,9 @@ const Header = () => {
                 <Box pl={[4, 4]} py={[0, 0]} flexBasis={0} flexGrow={1}>
                     <VStack w="100%">
                         <Text fontSize={['xl', '2xl']} lineHeight="md" flexWrap="wrap">David Jefferson</Text>
-                        <Text fontSize={['sm', 'lg']} fontWeight="normal" lineHeight="md" flexWrap="wrap">Desenvolvedor Full Stack Web e Mobile Sênior.</Text>
+                        <Text fontSize={['sm', 'lg']} fontWeight="normal" lineHeight="md" flexWrap="wrap">
+                            Desenvolvedor Front-End Web e Mobile Sênior.
+                        </Text>
                     </VStack>
                     <HStack flex={1}>
                         <Link mt={2} mr={2} href="https://www.linkedin.com/in/davidjeffersonbx/" isExternal>

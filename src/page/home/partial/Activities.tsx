@@ -20,7 +20,7 @@ const Activities = () => {
                         </li>
                         <li>
                             <Text>
-                                S.O.L.I.D e D.D.D
+                                S.O.L.I.D, D.D.D e Componentização
                             </Text>
                         </li>
                     </ul>
@@ -28,11 +28,17 @@ const Activities = () => {
                 <li>
                     <Text fontWeight="bold">Front-End</Text>
                     <ul>
-                        <li><Text>HTML5, CSS3, SCSS, Display Flex, Sass, Bootstrap, jQuery, NodeJS, JSON</Text></li>
+                        <li>
+                            <Text>
+                                HTML5, CSS3, SCSS, Display Flex, Sass, Bootstrap, PrimeFaces (PrimeNG),
+                                Material Design, Native Base, jQuery, NodeJS, JSON
+                            </Text>
+                        </li>
                         <li>
                             <Flex>
                                 <Text>Linguagem de programação JavaScript/TypeScript</Text>
-                                <Text>- Angular 2+, AngularJs, React Js, React Native, Redux</Text>
+                                <Text>- Angular 2+, AngularJs, React Js, React Native, Redux, Context Api, Eslint/Prettier</Text>
+                                <Text>- Jest, Async Storage</Text>
                             </Flex>
                         </li>
                         <li><Text>Npm, Bower, Yarn, Grunt, Gulp, BDD (Cucumber, Protractor)</Text></li>
@@ -41,12 +47,12 @@ const Activities = () => {
                 <li>
                     <Text fontWeight="bold">Backend-End</Text>
                     <ul>
-                        <li><Text>Micro Services, Designer System, Components, Clean Code, API REST</Text></li>
+                        <li><Text>Micro Serviços, Designer System, Components, Clean Code, API REST</Text></li>
                         <li><Text>Cloud: AWS S3, Digital Ocean</Text></li>
                         <li>
                             <Flex>
                                 <Text>Linguagem de programação Dot Net - 4 Anos</Text>
-                                <Text>- Entity Framework, NHibernate</Text>
+                                <Text>- Entity Framework, NHibernate, WPF, WCF</Text>
                             </Flex>
                         </li>
                         <li>
@@ -67,7 +73,7 @@ const Activities = () => {
                 <li>
                     <Text fontWeight="bold">Metodologia</Text>
                     <ul>
-                        <li><Text>Agile: Scrum, Kanban e Lean</Text></li>
+                        <li><Text>Agile: Scrum, Kanban e Lean (Jira, Azure DevOps)</Text></li>
                     </ul>
                 </li>
                 <li>

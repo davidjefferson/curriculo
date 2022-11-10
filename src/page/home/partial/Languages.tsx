@@ -10,7 +10,7 @@ const Languages = () => {
             <Title label="LÍNGUAS ESTRANGEIRAS" />
 
             <ul>
-                <li><Text>Inglês - Técnico</Text></li>
+                <li><Text>Inglês - A2</Text></li>
             </ul>
         </Box>
     )
