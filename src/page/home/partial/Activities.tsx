@@ -30,8 +30,8 @@ const Activities = () => {
                     <ul>
                         <li>
                             <Text>
-                                HTML5, CSS3, SCSS, Display Flex, Sass, Bootstrap, PrimeFaces (PrimeNG),
-                                Material Design, Native Base, jQuery, NodeJS, JSON
+                                HTML5, CSS3, SCSS, Display Flex, Sass, Bootstrap, PrimeFaces (PrimeNG), JSON,
+                                Material Design, Native Base, jQuery, ECMAScript, Babel, NodeJS
                             </Text>
                         </li>
                         <li>
@@ -41,7 +41,10 @@ const Activities = () => {
                                 <Text>- Jest, Async Storage</Text>
                             </Flex>
                         </li>
-                        <li><Text>Npm, Bower, Yarn, Grunt, Gulp, BDD (Cucumber, Protractor)</Text></li>
+                        <li><Text>
+                            Npm, Npx, Bower, Yarn, Grunt, Gulp, BDD (Cucumber, Protractor)
+                        </Text>
+                        </li>
                     </ul>
                 </li>
                 <li>
@@ -49,6 +52,12 @@ const Activities = () => {
                     <ul>
                         <li><Text>Micro Serviços, Designer System, Components, Clean Code, API REST</Text></li>
                         <li><Text>Cloud: AWS S3, Digital Ocean</Text></li>
+                        <li>
+                            <Flex>
+                                <Text>Linguagem de programação NodeJs - 1 Ano</Text>
+                                <Text>- TypeScript, Express, TypeORM, Router, Celebrate (Joi), Migration, NestJs, JWT</Text>
+                            </Flex>
+                        </li>
                         <li>
                             <Flex>
                                 <Text>Linguagem de programação Dot Net - 4 Anos</Text>

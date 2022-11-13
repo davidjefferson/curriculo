@@ -29,6 +29,7 @@ const Icons = () => {
                     <Icon icon="FaAngular" label="Angular" />
                     <Icon icon="SiJson" label="JSON" />
                     <Icon icon="RiNpmjsFill" label="NPM" />
+                    <Icon icon="IoLogoNodejs" label="Node JS" />
                     <Icon icon="DiBower" label="Bower" />
                     <Icon icon="FaYarn" label="Yarn" />
                     <Icon icon="DiGrunt" label="Grunt" />
