@@ -55,7 +55,7 @@ const Activities = () => {
                         <li>
                             <Flex>
                                 <Text>Linguagem de programação NodeJs - 1 Ano</Text>
-                                <Text>- TypeScript, Express, TypeORM, Router, Celebrate (Joi), Migration, NestJs, JWT</Text>
+                                <Text>- TypeScript, Express, TypeORM, Router, Celebrate (Joi), Migration, NestJs, JWT, Redis, Docker</Text>
                             </Flex>
                         </li>
                         <li>
