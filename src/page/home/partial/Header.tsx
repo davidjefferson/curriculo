@@ -24,7 +24,7 @@ const Header = () => {
                     <VStack w="100%">
                         <Text fontSize={['xl', '2xl']} lineHeight="md" flexWrap="wrap">David Jefferson</Text>
                         <Text fontSize={['sm', 'lg']} fontWeight="normal" lineHeight="md" flexWrap="wrap">
-                            Desenvolvedor Front-End Web e Mobile Sênior.
+                            Desenvolvedor Full Stack Web e Mobile Sênior (Especializado em Front-End).
                         </Text>
                     </VStack>
                     <HStack flex={1}>
