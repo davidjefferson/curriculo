@@ -13,7 +13,8 @@ const Projects = () => {
             <Box>
                 <Title label="PROJETOS MOBILE" />
                 <ul>
-                    <li><Text>FUNCEF - React Native - (Versão 2 - Ainda não publicada)</Text></li>
+                    <li><Text>FUNCEF - React Native</Text></li>
+                    <li><Text>Core Case - Ionic e Cordova</Text></li>
                     <li><Text>BFEventos - Ionic e Cordova</Text></li>
                 </ul>
             </Box>
@@ -21,33 +22,12 @@ const Projects = () => {
             <Divider my="6" />
 
             <Box>
-                <Title label="ALGUNS PROJETOS PESSOAIS" />
+                <Title label="PROJETO PESSOAL" />
                 <ul>
                     <li>
-                        <Link href="https://intranet.vidracariatocantins.com.br" isExternal>
+                        <Link href="https://www.uishop.com.br" isExternal>
                             <Text underline>
-                                intranet.vidracariatocantins.com.br
-                            </Text>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="https://www.ogestao.com.br" isExternal>
-                            <Text underline>
-                                www.ogestao.com.br
-                            </Text>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="https://www.onnoy.com.br" isExternal>
-                            <Text underline>
-                                www.onnoy.com.br
-                            </Text>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="https://www.taianearaujostore.com.br" isExternal>
-                            <Text underline>
-                                www.taianearaujostore.com.br
+                                www.uishop.com.br
                             </Text>
                         </Link>
                     </li>

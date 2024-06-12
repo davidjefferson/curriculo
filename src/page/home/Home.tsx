@@ -39,7 +39,7 @@ const Home = () => {
                     <HStack flex={1} justifyContent="space-between" p={5}>
                         <ToggleDarkMode />
 
-                        <Link href="https://drive.google.com/file/d/1o7cbW0Q12Elg3Y0DXlP3QTNou7i_irYk/view?usp=sharing" isExternal>
+                        <Link href="https://drive.google.com/file/d/1irJ3P70UrkoXWN-JMNwAE8iPk77JBozN/view" isExternal>
                             <Button colorScheme="trueGray" leftIcon={<BsDownload color={colorMode === "light" ? "black" : "white"} />} variant="outline">
                                 <Text>Baixar Currículo</Text>
                             </Button>
@@ -58,20 +58,20 @@ const Home = () => {
                         <Activities />
                         <Divider my={divider} />
 
+                        <Experiences />
+                        <Divider my={divider} />
+
                         <Others />
                         <Divider my={divider} />
 
                         <Cms />
                         <Divider my={divider} />
 
-                        <Experiences />
-                        <Divider my={divider} />
-
                         <Languages />
                         <Divider my={divider} />
 
-                        <Projects />
-                        <Divider my={divider} />
+                        {/* <Projects />
+                        <Divider my={divider} /> */}
 
                         <School />
                     </View>

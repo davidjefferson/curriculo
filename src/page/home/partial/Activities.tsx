@@ -30,7 +30,7 @@ const Activities = () => {
                     <ul>
                         <li>
                             <Text>
-                                HTML5, CSS3, SCSS, Display Flex, Sass, Bootstrap, PrimeFaces (PrimeNG), JSON,
+                                HTML5, CSS3, SCSS, Display Flex, Sass, SCSS, Bootstrap, Prime (react, ng), json, Tailwind,
                                 Material Design, Native Base, jQuery, ECMAScript, Babel, NodeJS
                             </Text>
                         </li>
@@ -41,9 +41,19 @@ const Activities = () => {
                                 <Text>- Jest, Async Storage</Text>
                             </Flex>
                         </li>
-                        <li><Text>
-                            Npm, Npx, Bower, Yarn, Grunt, Gulp, BDD (Cucumber, Protractor)
-                        </Text>
+                        <li>
+                            <Text>
+                                Npm, Npx, Bower, Yarn, Grunt, Gulp, BDD (Cucumber, Protractor)
+                            </Text>
+                        </li>
+                        <li>
+                            <Flex>
+                                <Text>Micro Frontends</Text>
+                                <Text>- Componentes (React, Angular)</Text>
+                                <Text>- Single SPA</Text>
+                                <Text>- Shadow DOM</Text>
+                                <Text>- Iframes, WebViews</Text>
+                            </Flex>
                         </li>
                     </ul>
                 </li>
@@ -79,7 +89,22 @@ const Activities = () => {
                                 <Text>- Hibernate, JSF, JSP</Text>
                             </Flex>
                         </li>
-
+                    </ul>
+                </li>
+                <li>
+                    <Text fontWeight="bold">Cloud - Computação em nuvem</Text>
+                    <ul>
+                        <li><Text>AWS, Azure</Text></li>
+                        <li><Text>Serverless: AWS Lambda, Azure Functions</Text></li>
+                        <li><Text>CI/CD: Dockers, Kubernetes, DevOps, OpenShift</Text></li>
+                        <li><Text>Files: S3</Text></li>
+                        <li><Text>Servers: S2</Text></li>
+                    </ul>
+                </li>
+                <li>
+                    <Text fontWeight="bold">Filas</Text>
+                    <ul>
+                        <li><Text>Kafka</Text></li>
                     </ul>
                 </li>
                 <li>
@@ -95,15 +120,40 @@ const Activities = () => {
                     </ul>
                 </li>
                 <li>
-                    <Text fontWeight="bold">Geoprocessamento</Text>
-                    <ul>
-                        <li><Text>Openlayers, Postgis, Oracle e GeoServer</Text></li>
-                    </ul>
-                </li>
-                <li>
                     <Text fontWeight="bold">Versionamento</Text>
                     <ul>
                         <li><Text>Git, SVN e TFS</Text></li>
+                    </ul>
+                </li>
+                <li>
+                    <Text fontWeight="bold">Testes Automatizados</Text>
+                    <ul>
+                        <li><Text>PHPUnit, JUnit, Jest, Jasmine, Cucumber, Cypress </Text></li>
+                    </ul>
+                </li>
+                <li>
+                    <Text fontWeight="bold">Inteligência Artificial</Text>
+                    <ul>
+                        <li><Text>Apis (Openai)</Text></li>
+                    </ul>
+                </li>
+                <li>
+                    <Text fontWeight="bold">Documentações</Text>
+                    <ul>
+                        <li><Text>Coding Standards: ESLint </Text></li>
+                        <li><Text>Code Style Guide: EditorConfig</Text></li>
+                        <li><Text>Architecture Documentation: Modelo C4 do Simon Brown</Text></li>
+                        <li><Text>API Documentation: Swagger/OpenAPI, Postman/Insomnia</Text></li>
+                        <li><Text>Code Comments: Javadoc, PHPDoc</Text></li>
+                        <li><Text>Version Control Documentation: Git, SVN. TFS, GitHub, GitLab, Wikis</Text></li>
+                        <li><Text>Code Review Documentation: GitLab Merge Requests / Pull Requests</Text></li>
+                        <li><Text>Unit Testing Plan: JUnit, PHPUnit, Jest</Text></li>
+                    </ul>
+                </li>
+                <li>
+                    <Text fontWeight="bold">Geoprocessamento</Text>
+                    <ul>
+                        <li><Text>Openlayers, Postgis, Oracle e GeoServer</Text></li>
                     </ul>
                 </li>
             </ul>

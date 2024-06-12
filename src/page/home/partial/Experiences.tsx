@@ -11,7 +11,26 @@ const Experiences = () => {
 
             <ul>
                 <li>
-                    <Text>FUNCEF - Desenvolvedor Sênior Web .Net com Angular - 6 Anos (Atual)</Text>
+                    <Text fontWeight="bold">Extreme Digital Solutions - EDS · Tempo integral - 18 Meses  (Atual)</Text>
+                    <ul>
+                        <li>
+                            <Text>Atividades:</Text>
+                            <ul>
+                                <li>
+                                    <Text>Desenvolvimento Web React, Java 8, NodeJs</Text>
+                                </li>
+                                <li>
+                                    <Text>Arquiteto Frontend</Text>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <Text>Tecnologias: Angular, AngularJs, React Js, TypeScript, React Native, API's REST, Npm, Yarn, Docker, Pipeline, Tailwind, Testing Library</Text>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <Text fontWeight="bold">FUNCEF - Desenvolvedor Sênior Web .Net com Angular - 6 Anos</Text>
                     <ul>
                         <li>
                             <Text>Atividades:</Text>
@@ -33,7 +52,7 @@ const Experiences = () => {
                     </ul>
                 </li>
                 <li>
-                    <Text>CTIS - Desenvolvedor Pleno Web PHP - 2 anos</Text>
+                    <Text fontWeight="bold">CTIS - Desenvolvedor Pleno Web PHP - 2 anos</Text>
                     <ul>
                         <li>
                             <Text>Atividades:</Text>
@@ -48,7 +67,7 @@ const Experiences = () => {
                     </ul>
                 </li>
                 <li>
-                    <Text>Fermento Promo - Desenvolvedor Junior Web PHP 1 Ano</Text>
+                    <Text fontWeight="bold">Fermento Promo - Desenvolvedor Junior Web PHP 1 Ano</Text>
                     <ul>
                         <li>
                             <Text>Atividades:</Text>
@@ -62,7 +81,7 @@ const Experiences = () => {
                     </ul>
                 </li>
                 <li>
-                    <Text>CDS - Desenvolvedor Junior Web Java - 1 Ano</Text>
+                    <Text fontWeight="bold">CDS - Desenvolvedor Junior Web Java - 1 Ano</Text>
                     <ul>
                         <li>
                             <Text>Atividades:</Text>
@@ -76,7 +95,7 @@ const Experiences = () => {
                     </ul>
                 </li>
                 <li>
-                    <Text>Vidraçaria Tocantins - Desenvolvedor Junior Web PHP - 1 Ano</Text>
+                    <Text fontWeight="bold">Vidraçaria Tocantins - Desenvolvedor Junior Web PHP - 1 Ano</Text>
                     <ul>
                         <li>
                             <Text>Atividades:</Text>
@@ -90,7 +109,7 @@ const Experiences = () => {
                     </ul>
                 </li>
                 <li>
-                    <Text>Banco do Brasil - Desenvolvedor Estagiário Web Java - 1 Ano</Text>
+                    <Text fontWeight="bold">Banco do Brasil - Desenvolvedor Estagiário Web Java - 1 Ano</Text>
                     <ul>
                         <li>
                             <Text>Atividades:</Text>

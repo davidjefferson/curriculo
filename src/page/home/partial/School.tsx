@@ -13,6 +13,12 @@ const School = () => {
                     <Text>Metodologia Agile (16 horas)</Text>
                 </li>
                 <li>
+                    <Text>Desenvolvimento Backend com NodeJs (60 horas)</Text>
+                </li>
+                <li>
+                    <Text>Desenvolvimento Backend com Java e Spring Boot (100 horas)</Text>
+                </li>
+                <li>
                     <Text>Desenvolvimento Mobile e Web com React + Redux (54 horas)</Text>
                 </li>
                 <li>
