@@ -8,188 +8,161 @@ const Experiences = () => {
 
       <ul>
         <li>
-          <Text fontWeight="bold">Montreal (No último ano)</Text>
+          <Text fontWeight="bold">Montreal</Text>
+          <Text> - Tech Lead / Arquiteto Frontend (2025-2026)</Text>
           <ul>
             <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>
-                    Lider Técnico e especialista em arquitetura frontend
-                  </Text>
-                </li>
-              </ul>
+              <Text>
+                Atuação como líder técnico em projetos de grande escala
+              </Text>
             </li>
             <li>
-              <Text>Tecnologias: Angular 2+, Monorepo</Text>
+              <Text>
+                Definição de arquitetura frontend utilizando Angular 2+ e
+                monorepo
+              </Text>
+            </li>
+            <li>
+              <Text>
+                Implementação de padrões de componentização e reutilização de
+                código
+              </Text>
+            </li>
+            <li>
+              <Text>
+                Code review e definição de boas práticas de desenvolvimento
+              </Text>
+            </li>
+            <li>
+              <Text>Integração com APIs REST e otimização de performance</Text>
+            </li>
+          </ul>
+        </li>
+
+        <li className="mt-5">
+          <Text fontWeight="bold">Extreme Digital Solutions (EDS)</Text>
+          <Text> - Arquiteto Frontend / Desenvolvedor Sênior (2023-2025)</Text>
+
+          <ul>
+            <li>
+              <Text>
+                Desenvolvimento de aplicações web com React.js, Angular e
+                TypeScript
+              </Text>
+            </li>
+            <li>
+              <Text>
+                Definição de arquitetura frontend e padrões de projeto
+              </Text>
+            </li>
+            <li>
+              <Text>Integração com APIs REST utilizando Node.js</Text>
+            </li>
+            <li>
+              <Text>Implementação de CI/CD e containerização com Docker</Text>
+            </li>
+            <li>
+              <Text>
+                Desenvolvimento de interfaces escaláveis e responsivas
+              </Text>
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <Text fontWeight="bold">FUNCEF</Text>
+          <Text> - Desenvolvedor Sênior / Tech Lead (2017-2023)</Text>
+          <ul>
+            <li>
+              <Text>
+                Atuação como especialista frontend em sistemas corporativos
+              </Text>
+            </li>
+            <li>
+              <Text>Desenvolvimento com Angular, React e Node.js</Text>
+            </li>
+            <li>
+              <Text>Liderança técnica e definição de arquitetura frontend</Text>
+            </li>
+            <li>
+              <Text>Mentoria de desenvolvedores juniores e plenos</Text>
+            </li>
+            <li>
+              <Text>Implementação de componentização e design systems</Text>
+            </li>
+            <li>
+              <Text>Desenvolvimento mobile com React Native</Text>
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <Text fontWeight="bold">CTIS</Text>
+          <Text> - Desenvolvedor Full Stack PHP (2015-2017)</Text>
+          <ul>
+            <li>
+              <Text>Desenvolvimento de sistema ERP com PHP e PostgreSQL</Text>
+            </li>
+            <li>
+              <Text>
+                Atuação como líder frontend utilizando HTML, CSS e Bootstrap
+              </Text>
+            </li>
+            <li>
+              <Text>Integração com APIs REST e automação com Gulp</Text>
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <Text fontWeight="bold">Fermento Promo</Text>
+          <Text> - Desenvolvedor Web PHP (2014-2015)</Text>
+          <ul>
+            <li>
+              <Text>Desenvolvimento de hotsites, CMS e e-commerces</Text>
+            </li>
+            <li>
+              <Text>Utilização de HTML, CSS, Bootstrap e jQuery</Text>
             </li>
           </ul>
         </li>
         <li>
-          <Text fontWeight="bold">
-            Extreme Digital Solutions - EDS · Tempo integral - 3 anos
-          </Text>
+          <Text fontWeight="bold">CDS</Text>
+          <Text> - Desenvolvedor Web Java (2013-2014)</Text>
           <ul>
             <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>Desenvolvimento Web React, Java 8, NodeJs</Text>
-                </li>
-                <li>
-                  <Text>Arquiteto Frontend</Text>
-                </li>
-              </ul>
+              <Text>Desenvolvimento de sistema de BI com geoprocessamento</Text>
             </li>
             <li>
               <Text>
-                Tecnologias: Angular, AngularJs, React Js, TypeScript, React
-                Native, API's REST, Npm, Yarn, Docker, Pipeline, Tailwind,
-                Testing Library
+                Uso de tecnologias web e integração com dados geoespaciais
               </Text>
             </li>
           </ul>
         </li>
         <li>
-          <Text fontWeight="bold">
-            FUNCEF - Desenvolvedor Sênior Web .Net com Angular - 6 Anos
-          </Text>
+          <Text fontWeight="bold">Vidraçaria Tocantins</Text>
+          <Text> - Desenvolvedor Web PHP (2012-2013)</Text>
           <ul>
             <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>
-                    Especialista frontend, tech lead, componentização em
-                    projetos de previdência privada com .Net e Angular
-                  </Text>
-                </li>
-                <li>
-                  <Text>Desenvolvimento web com Node.js e Angular 2+</Text>
-                </li>
-                <li>
-                  <Text>Desenvolvimento mobile React Native, Native Base</Text>
-                </li>
-              </ul>
+              <Text>Desenvolvimento de ERP próprio utilizando PHP</Text>
             </li>
             <li>
               <Text>
-                Tecnologias: Angular, AngularJs, React Js, TypeScript, React
-                Native, BootStrap 5.x, API's REST, Redux, Npm, Bower, Yarn,
-                Grunt
+                Criação de interfaces web e integração com banco de dados
               </Text>
             </li>
           </ul>
         </li>
         <li>
-          <Text fontWeight="bold">
-            CTIS - Desenvolvedor Pleno Web PHP - 2 anos
-          </Text>
+          <Text fontWeight="bold">Banco do Brasil</Text>
+          <Text> - Estagiário Desenvolvimento Java (2011-2012)</Text>
           <ul>
             <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>
-                    Desenvolvimento Full Stack PHP com PostgreSql em um sistema
-                    de ERP
-                  </Text>
-                </li>
-                <li>
-                  <Text>
-                    Tech Lead frontend em HTML, CSS, BootStrap 3.x e jQuery
-                  </Text>
-                </li>
-              </ul>
+              <Text>Desenvolvimento de sistemas internos de intranet</Text>
             </li>
             <li>
-              <Text>
-                Tecnologias: AngularJs, CSS3, Bootstrap, jQuery, JSON, REST,
-                Gulp e BDD, Yii Framework I e II
-              </Text>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <Text fontWeight="bold">
-            Fermento Promo - Desenvolvedor Junior Web PHP 1 Ano
-          </Text>
-          <ul>
-            <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>Desenvolvimento de hotsites, cms's e e-commerce's</Text>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <Text>
-                Tecnologias: HTML5, CSS3, Bootstrap, jQuery, JSON, REST e npm
-              </Text>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <Text fontWeight="bold">
-            CDS - Desenvolvedor Junior Web Java - 1 Ano
-          </Text>
-          <ul>
-            <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>
-                    Desenvolvimento de sistema de B.I com Geo Processamento
-                  </Text>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <Text>
-                Tecnologias: HTML5, CSS3, Bootstrap, jQuery, JSON, REST e npm
-              </Text>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <Text fontWeight="bold">
-            Vidraçaria Tocantins - Desenvolvedor Junior Web PHP - 1 Ano
-          </Text>
-          <ul>
-            <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>Desenvolvimento de sistema ERP próprio em PHP.</Text>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <Text>Tecnologias: HTML5, CSS3, Bootstrap 3.x, jQuery, JSON</Text>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <Text fontWeight="bold">
-            Banco do Brasil - Desenvolvedor Estagiário Web Java - 1 Ano
-          </Text>
-          <ul>
-            <li>
-              <Text>Atividades:</Text>
-              <ul>
-                <li>
-                  <Text>
-                    Desenvolvimento de sistemas internos de intranet em Java.
-                  </Text>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <Text>
-                Tecnologias: HTML5, CSS3, Bootstrap 3.x, jQuery, JSON, Java JFS
-                e JFP
-              </Text>
+              <Text>Utilização de Java e tecnologias web</Text>
             </li>
           </ul>
         </li>

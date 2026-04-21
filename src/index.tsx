@@ -3,7 +3,8 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import { NativeBaseProvider, extendTheme } from "native-base";
 import reportWebVitals from "./reportWebVitals";
-import './style/app.css';
+import "./style/app.css";
+// import "./style/helpers.css";
 
 const theme = extendTheme({
   config: {
@@ -22,7 +23,7 @@ ReactDOM.render(
       <App />
     </NativeBaseProvider>
   </React.StrictMode>,
-  document.getElementById("root")
+  document.getElementById("root"),
 );
 
 // If you want to start measuring performance in your app, pass a function

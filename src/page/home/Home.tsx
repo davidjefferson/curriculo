@@ -19,12 +19,13 @@ import Header from "./partial/Header";
 import Icons from "./partial/Icons";
 import Languages from "./partial/Languages";
 import Others from "./partial/Others";
-import Projects from "./partial/Projects";
 import School from "./partial/School";
+import Resume from "./partial/Resume";
+import Certifications from "./partial/Certifications";
 
 const Home = () => {
   const { colorMode } = useColorMode();
-  const divider = [3, 6];
+  const divider = [4, 4];
 
   return (
     <div className={colorMode === "light" ? "modo-light" : "modo-dark"}>
@@ -69,10 +70,7 @@ const Home = () => {
             <Header />
             <Divider my={divider} />
 
-            <Icons />
-            <Divider my={divider} />
-
-            <Graduation />
+            <Resume />
             <Divider my={divider} />
 
             <Activities />
@@ -81,14 +79,23 @@ const Home = () => {
             <Experiences />
             <Divider my={divider} />
 
+            <Graduation />
+            <Divider my={divider} />
+
+            <Certifications />
+            <Divider my={divider} />
+
             <Others />
             <Divider my={divider} />
 
-            <Cms />
-            <Divider my={divider} />
+            {/* <Cms />
+            <Divider my={divider} /> */}
 
             <Languages />
             <Divider my={divider} />
+
+            {/* <Icons />
+            <Divider my={divider} /> */}
 
             {/* <Projects />
                         <Divider my={divider} /> */}
